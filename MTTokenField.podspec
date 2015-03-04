@@ -8,4 +8,5 @@ Pod::Spec.new do |spec|
   spec.source       = { :git => 'https://github.com/aufflick/MTTokenField.git', :tag => "v#{spec.version}" }
   spec.source_files = 'MTTokenField/*.{h,m}'
   spec.platform     = :osx, '10.7'
+  spec.requires_arc = false
 end
