@@ -154,7 +154,8 @@
 				329F071914C879D50090ECBE /* NSAttributedString+MTTokenField.h */,
 				329F071A14C879D60090ECBE /* NSAttributedString+MTTokenField.m */,
 			);
-			path = MTTokenField;
+			name = MTTokenField;
+			path = ../MTTokenField;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
